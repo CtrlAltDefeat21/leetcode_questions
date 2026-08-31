@@ -27,6 +27,7 @@ For full fledged revision
 | [0189-rotate-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ For full fledged revision
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0283-move-zeroes) |
 ## Counting
 |  |
 | ------- |
