@@ -6,6 +6,7 @@ For full fledged revision
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0189-rotate-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -20,6 +21,7 @@ For full fledged revision
 | [0053-maximum-subarray](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,4 +40,5 @@ For full fledged revision
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
