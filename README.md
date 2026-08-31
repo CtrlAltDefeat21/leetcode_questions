@@ -24,6 +24,7 @@ For full fledged revision
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0238-product-of-array-except-self) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,4 +54,8 @@ For full fledged revision
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
