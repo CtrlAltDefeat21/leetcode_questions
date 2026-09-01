@@ -7,6 +7,7 @@ For full fledged revision
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -14,6 +15,7 @@ For full fledged revision
 | [0088-merge-sorted-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -27,6 +29,7 @@ For full fledged revision
 | [0189-rotate-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -39,6 +42,7 @@ For full fledged revision
 | [0001-two-sum](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,4 +67,12 @@ For full fledged revision
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
