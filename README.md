@@ -25,6 +25,7 @@ For full fledged revision
 | [0011-container-with-most-water](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0088-merge-sorted-array) |
@@ -38,6 +39,7 @@ For full fledged revision
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -58,6 +60,7 @@ For full fledged revision
 | [0011-container-with-most-water](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0189-rotate-array) |
@@ -94,4 +97,12 @@ For full fledged revision
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
