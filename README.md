@@ -6,6 +6,7 @@ For full fledged revision
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/CtrlAltDefeat21/leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
